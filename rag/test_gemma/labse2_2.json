@@ -1,0 +1,33 @@
+[
+    {
+        "BM_WEIGHT": 0.4,
+        "EMBEDDING_WEIGHT": 0.6,
+        "MAX_STEPS": 2,
+        "NUM_PATHS": 2,
+        "Correct": 70,
+        "Total": 113,
+        "Accuracy": 61.95,
+        "Per_Complexity_Accuracy": {
+            "Complexity_1": {
+                "Correct": 23,
+                "Total": 38,
+                "Accuracy": 60.53
+            },
+            "Complexity_2": {
+                "Correct": 24,
+                "Total": 43,
+                "Accuracy": 55.81
+            },
+            "Complexity_3": {
+                "Correct": 19,
+                "Total": 24,
+                "Accuracy": 79.17
+            },
+            "Complexity_4": {
+                "Correct": 4,
+                "Total": 8,
+                "Accuracy": 50.0
+            }
+        }
+    }
+]
